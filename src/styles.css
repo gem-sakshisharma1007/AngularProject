@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+    background-image: url('https://hougumlaw.com/wp-content/uploads/2016/05/light-website-backgrounds-light-color-background-images-light-color-background-images-for-website-1024x640.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+.blue-bg {
+    background-color: blue;
+
+}
+li{
+    list-style-type: none;
+}
